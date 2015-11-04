@@ -12,12 +12,12 @@ Unix/Linux/MacOSX Commands
 * `.` : current drectory
 * `rm` : remove file
 * `rm -rf` : force remove
-* `man` : Help directory 
+* `man` : Help directory or manual directory
 
 # Basic Git commands
 * `git init` : add git to your project
 * `git add .` : statge all file to get ready for commit
 * `git add hello.txt` : staging a specific file
-* `git status` : whats status or what not
+* `git status` : Show the working tree status
 * `git commit -m 'created hello.txt` : commiting sttage file
 * `git push origin master` : pushing to remote repository 
