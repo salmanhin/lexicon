@@ -6,12 +6,12 @@ Unix/Linux/MacOSX Commands
 * `cd` : Change Directory
 * `ls` :  List information about file
 * `cd ..` : Move one folder Up
-* `mkdir` : Create new folder
-* `touch` : Create/edit file
+* `mkdir` : Create new directory
+* `touch` : Create and/o update file
 * `cat` : Shows contents of the files
 * `.` : Current drectory
 * `rm` : Remove file
-* `rm -rf` : Force remove
+* `rm -rf` : Force remove (r- remove directory and contents -f force)
 * `man` : Help directory or manual directory
 
 # Basic Git commands
