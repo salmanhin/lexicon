@@ -7,17 +7,17 @@ Unix/Linux/MacOSX Commands
 * `ls` :  List information about file
 * `cd ..` : Move one folder Up
 * `mkdir` : Create new folder
-* `touch` : create/edit file
-* `cat` : shows contents of the files
-* `.` : current drectory
-* `rm` : remove file
-* `rm -rf` : force remove
+* `touch` : Create/edit file
+* `cat` : Shows contents of the files
+* `.` : Current drectory
+* `rm` : Remove file
+* `rm -rf` : Force remove
 * `man` : Help directory or manual directory
 
 # Basic Git commands
-* `git init` : add git to your project
-* `git add .` : statge all file to get ready for commit
-* `git add hello.txt` : staging a specific file
+* `git init` : Add git to your project
+* `git add .` : Stage all file to get ready for commit
+* `git add hello.txt` : Staging a specific file
 * `git status` : Show the working tree status
-* `git commit -m 'created hello.txt` : commiting sttage file
-* `git push origin master` : pushing to remote repository 
+* `git commit -m 'created hello.txt` : Commiting stage file
+* `git push origin master` : Pushing to remote repository in github
