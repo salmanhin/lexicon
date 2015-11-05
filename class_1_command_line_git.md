@@ -2,7 +2,7 @@ Unix/Linux/MacOSX Commands
 * `~` : This symbol means "home" on the UNIX command line.
 * `/` : This symbol means "root", the ultimate parent directory.
 * `whoami` : This makes the terminal output the current user name.
-* `pwd` : Password
+* `pwd` : shows the file path/working directory
 * `cd` : Change Directory
 * `ls` :  List information about file
 * `cd ..` : Move one folder Up
